@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Seavphing! 👋
 
-<!--
-**seavphing/seavphing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Humble developer* 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 🧑‍💻 Software Developer passionate about learning and building
+- 📅 GitHub member since March 2021
+- 🌱 Always exploring new technologies and frameworks
+- 💼 Currently working with Java, Kotlin, Python, Go, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+Based on what I have worked with:
+- **Backend**: Java (Spring Boot, Spring Cloud), Kotlin (Ktor), Python (Flask, FastAPI, Django), Go (Gin).
+- **Machine Learning**: PyTorch, TensorFlow, YOLO.
+- **AI Agent**: LangChain, Ollama, OpenAI.
+
+## 📫 Let's Connect!
+- GitHub: [@seavphing](https://github.com/seavphing)
+- Feel free to explore my repositories and reach out!
+
+---
+*"Every expert was once a beginner. Every pro was once an amateur."* ✨

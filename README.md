@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologies & Tools
 Based on what I have worked with:
-- **Backend**: Java (Spring Boot, Spring Cloud), Kotlin (Ktor), Python (Flask, FastAPI, Django), Go (Gin).
+- **Backend**: Java (Spring Boot, Spring Cloud), Kotlin (Ktor), Python (Flask, FastAPI, Django), Go (Gin), Rust(actix).
 - **Machine Learning**: PyTorch, TensorFlow, YOLO.
 - **AI Agent**: LangChain, Ollama, OpenAI.
 
